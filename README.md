@@ -1,5 +1,8 @@
 <h1>🕸️ Graph Theory Practice</h1>
 <p>This is just to develop my brain about the Graph Theory</p>
+<p>learning from -> <a href="https://www.youtube.com/watch?v=09_LlHjoEiY">https://www.youtube.com/watch?v=09_LlHjoEiY</a></p>
+
+<img src="./graph.png">
 
 <ul>
     <li>Depth First Search</li>
